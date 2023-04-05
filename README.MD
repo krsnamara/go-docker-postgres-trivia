@@ -16,4 +16,4 @@ This is a build of REST API using Go and Docker. I used Postgres to persist the 
 ***
 
 ## Future Enhancements
-- Will be building this application out in the future
+- Add a delete route and attach a button for that function
